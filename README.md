@@ -1,8 +1,6 @@
 # SQL for Data Extraction and Business Analysis
 
-## Project Overview
-
-This project focuses on extracting and analyzing business data using SQL. The analysis was performed on the Superstore dataset to answer key business questions related to sales performance, customer behavior, and profitability.
+A SQL-based data analysis project focused on extracting business insights from the Superstore dataset. The project demonstrates data querying, aggregation, filtering, and business-oriented analysis using MySQL and Python.
 
 ## Objectives
 
